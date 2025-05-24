@@ -1,0 +1,13 @@
+.modal {
+    width: 1112px;
+        height: 640px;
+    background-color: #2E2F42;
+
+}
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+    list-style: none;
+    justify-content: center;
+}
