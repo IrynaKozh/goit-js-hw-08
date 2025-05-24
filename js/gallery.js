@@ -75,8 +75,8 @@ function createMarcup(arr) {
       src="${preview}"
       data-source="${original}"
       alt="${description}"
-      width="360";
-      height="200";
+      width="360"
+      height="200"
     />
   </a>
 </li>
